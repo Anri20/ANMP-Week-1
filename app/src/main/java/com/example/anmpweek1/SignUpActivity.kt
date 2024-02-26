@@ -9,8 +9,8 @@ class SignUpActivity : AppCompatActivity() {
         setContentView(R.layout.activity_sign_up)
 
 //        SignUp Comment
-//        1.
-//        2.
+//        1. Search existing account
+//        2. Check password
 //        3.
     }
 }
